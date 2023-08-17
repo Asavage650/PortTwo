@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/porttwo/static/css/main.50230456.css",
-    "main.js": "/porttwo/static/js/main.f915398b.js",
+    "main.js": "/porttwo/static/js/main.691122d9.js",
     "static/js/787.6e6f2281.chunk.js": "/porttwo/static/js/787.6e6f2281.chunk.js",
     "static/media/pw-generator.png": "/porttwo/static/media/pw-generator.fd8f32b261f27e39c99f.png",
     "static/media/Tech-blog.png": "/porttwo/static/media/Tech-blog.b19825bb559c8dbd4366.png",
@@ -12,11 +12,11 @@
     "index.html": "/porttwo/index.html",
     "static/media/helvetica-neu.ttf": "/porttwo/static/media/helvetica-neu.31d6cfe0d16ae931b73c.ttf",
     "main.50230456.css.map": "/porttwo/static/css/main.50230456.css.map",
-    "main.f915398b.js.map": "/porttwo/static/js/main.f915398b.js.map",
+    "main.691122d9.js.map": "/porttwo/static/js/main.691122d9.js.map",
     "787.6e6f2281.chunk.js.map": "/porttwo/static/js/787.6e6f2281.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.50230456.css",
-    "static/js/main.f915398b.js"
+    "static/js/main.691122d9.js"
   ]
 }
