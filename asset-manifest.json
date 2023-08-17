@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/portfoliotwo/static/css/main.b8e637a1.css",
-    "main.js": "/portfoliotwo/static/js/main.955347a6.js",
-    "static/js/787.3548c9dd.chunk.js": "/portfoliotwo/static/js/787.3548c9dd.chunk.js",
-    "static/media/pw-generator.png": "/portfoliotwo/static/media/pw-generator.fd8f32b261f27e39c99f.png",
-    "static/media/Tech-blog.png": "/portfoliotwo/static/media/Tech-blog.b19825bb559c8dbd4366.png",
-    "static/media/scheduler.png": "/portfoliotwo/static/media/scheduler.8903ea11306c8ab77713.png",
-    "static/media/My-logo.jpg": "/portfoliotwo/static/media/My-logo.a757407cef3f6061a58f.jpg",
-    "static/media/jate.png": "/portfoliotwo/static/media/jate.4be53c6423dc28b4f2c3.png",
-    "static/media/Note-taker.png": "/portfoliotwo/static/media/Note-taker.cca24cec2667ab01008d.png",
-    "index.html": "/portfoliotwo/index.html",
-    "static/media/helvetica-neu.ttf": "/portfoliotwo/static/media/helvetica-neu.31d6cfe0d16ae931b73c.ttf",
-    "main.b8e637a1.css.map": "/portfoliotwo/static/css/main.b8e637a1.css.map",
-    "main.955347a6.js.map": "/portfoliotwo/static/js/main.955347a6.js.map",
-    "787.3548c9dd.chunk.js.map": "/portfoliotwo/static/js/787.3548c9dd.chunk.js.map"
+    "main.css": "/PortTwo/static/css/main.de7872aa.css",
+    "main.js": "/PortTwo/static/js/main.d20019b4.js",
+    "static/js/787.3548c9dd.chunk.js": "/PortTwo/static/js/787.3548c9dd.chunk.js",
+    "static/media/pw-generator.png": "/PortTwo/static/media/pw-generator.fd8f32b261f27e39c99f.png",
+    "static/media/Tech-blog.png": "/PortTwo/static/media/Tech-blog.b19825bb559c8dbd4366.png",
+    "static/media/scheduler.png": "/PortTwo/static/media/scheduler.8903ea11306c8ab77713.png",
+    "static/media/My-logo.jpg": "/PortTwo/static/media/My-logo.a757407cef3f6061a58f.jpg",
+    "static/media/jate.png": "/PortTwo/static/media/jate.4be53c6423dc28b4f2c3.png",
+    "static/media/Note-taker.png": "/PortTwo/static/media/Note-taker.cca24cec2667ab01008d.png",
+    "index.html": "/PortTwo/index.html",
+    "static/media/helvetica-neu.ttf": "/PortTwo/static/media/helvetica-neu.31d6cfe0d16ae931b73c.ttf",
+    "main.de7872aa.css.map": "/PortTwo/static/css/main.de7872aa.css.map",
+    "main.d20019b4.js.map": "/PortTwo/static/js/main.d20019b4.js.map",
+    "787.3548c9dd.chunk.js.map": "/PortTwo/static/js/787.3548c9dd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8e637a1.css",
-    "static/js/main.955347a6.js"
+    "static/css/main.de7872aa.css",
+    "static/js/main.d20019b4.js"
   ]
 }
